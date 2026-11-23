@@ -1,0 +1,3 @@
+Copy your notebook here and rename it to AB_NYC_project.ipynb.
+Run Kernel > Restart & Run All before saving so outputs and charts are kept.
+Then delete this file.
